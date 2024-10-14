@@ -11,7 +11,7 @@ I'm a engineering student passionate about developing new things. Welcome to my 
 ## My Repositories
 
 Here are some of the projects I've been working on:
--[LifeBeat](https://github.com/SamarpitaBDas/LifeBeat): an android application that helps detect cancer in early stages.
+- [LifeBeat](https://github.com/SamarpitaBDas/LifeBeat): an android application that helps detect cancer in early stages.
 - [Raksha](https://github.com/SamarpitaBDas/Raksha): women safety android application.
 - [FitSutra](https://github.com/SamarpitaBDas/FitSutra): fitness promoter application.
 - [ConvoVerse](https://github.com/SamarpitaBDas/ConvoVerse): realtime chatting website.
