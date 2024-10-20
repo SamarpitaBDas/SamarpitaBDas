@@ -1,4 +1,4 @@
-![aesthetic]((https://i.pinimg.com/originals/09/1f/83/091f837d3aae5870b5fdb72ad31482ce.gif))
+<img src="https://i.pinimg.com/originals/58/9d/dd/589ddd85b8c039595b21fb6510f44d6e.gif" alt="aesthetic" style="width: 1000px; height: auto;">
 
 <h1 align="center">Hey there, I'm Samarpita Das 👋</h1>
 <h3 align="center">Engineering Student | Tech Enthusiast | Android Developer</h3>
