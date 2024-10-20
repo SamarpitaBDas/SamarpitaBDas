@@ -19,9 +19,9 @@
 
 ### Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/samarpitabdas" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/samarpitadas_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/codenemesis" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/samarpitabdas" target="_blank"><img src="https://i.pinimg.com/564x/70/dd/bd/70ddbd3e0121c99500a7b7074af7201a.jpg" alt="Linkedin" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/samarpitadas_" target="_blank"><img src="https://i.pinimg.com/enabled_lo/564x/2b/8c/04/2b8c04109707d9f092f2287bbc1db8da.jpg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/codenemesis" target="_blank"><img src="https://i.pinimg.com/enabled_lo/736x/1e/b4/9b/1eb49bf7502fd07430e7c24ff2261b8c.jpg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
 ---
