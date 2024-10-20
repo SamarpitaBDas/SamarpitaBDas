@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![aesthetic](https://i.pinimg.com/originals/a7/a6/cf/a7a6cf0e10ae1ce224e0e24e0e25aeba.gif))
 
 <h1 align="center">Hey there, I'm Samarpita Das 👋</h1>
 <h3 align="center">Engineering Student | Tech Enthusiast | Android Developer</h3>
