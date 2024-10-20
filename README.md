@@ -14,7 +14,7 @@
 - 🔭 I’m currently studying **Engineering** with a focus on software development.
 - 🌱 Eagerly learning **Kotlin** and enhancing my mobile app development skills.
 - 👯 Looking to team up on **Android projects**! Feel free to [connect on LinkedIn](https://www.linkedin.com/in/samarpitabdas).
-- 📫 You can reach me at: **samarpitad@example.com** (update with your email).
+- 📫 You can reach me at: **samarpitabdas@gmail.com** .
 - 📄 [Explore my journey and experiences](#).
 
 ---
