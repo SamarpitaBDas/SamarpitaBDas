@@ -55,12 +55,8 @@ I’d love your feedback on these projects!
 
 ### GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarpitabdas&show_icons=true&locale=en" alt="samarpitabdas" style="margin: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarpitabdas&" alt="samarpitabdas" style="margin: 10px;"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samarpitabdas&show_icons=true&locale=en&layout=compact" alt="samarpitabdas" style="margin: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarpitabdas&" alt="samarpitabdas" style="margin: 10px;"/>
 </div>
 
 ---
