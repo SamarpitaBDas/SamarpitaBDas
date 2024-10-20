@@ -13,7 +13,7 @@
 - 🌱 Eagerly learning **Kotlin** and enhancing my mobile app development skills.
 - 👯 Looking to team up on **Android projects**! Feel free to [connect on LinkedIn](https://www.linkedin.com/in/samarpitabdas).
 - 📫 You can reach me at: **samarpitabdas@gmail.com** .
-- 📄 [Explore my journey and experiences](#).
+- 📄 [Explore my journey and experiences](https://samarpitabdas.github.io/Portfolio/).
 
 ---
 
