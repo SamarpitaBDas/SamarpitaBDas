@@ -3,7 +3,7 @@
 <h1 align="center">Hey there, I'm Samarpita Das 👋</h1>
 <h3 align="center">Engineering Student | Tech Enthusiast | Android Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/99/0b/d5/990bd516b3659f0cfa772d0b54c54d4c.gif">
+<img align="right" alt="Coding" width="400px" src="https://i.pinimg.com/originals/99/0b/d5/990bd516b3659f0cfa772d0b54c54d4c.gif">
 
 ---
 
