@@ -3,9 +3,7 @@
 <h1 align="center">Hey there, I'm Samarpita Das 👋</h1>
 <h3 align="center">Engineering Student | Tech Enthusiast | Android Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samarpitabdas&label=Profile%20views&color=0e75b6&style=flat" alt="samarpitabdas" /> </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/99/0b/d5/990bd516b3659f0cfa772d0b54c54d4c.gif">
 
 ---
 
