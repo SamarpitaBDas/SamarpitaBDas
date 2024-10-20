@@ -1,4 +1,4 @@
-![aesthetic](https://i.pinimg.com/originals/09/1f/83/091f837d3aae5870b5fdb72ad31482ce.gif))
+!([aesthetic](https://i.pinimg.com/originals/09/1f/83/091f837d3aae5870b5fdb72ad31482ce.gif))
 
 <h1 align="center">Hey there, I'm Samarpita Das 👋</h1>
 <h3 align="center">Engineering Student | Tech Enthusiast | Android Developer</h3>
