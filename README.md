@@ -1,9 +1,9 @@
-<img src="https://i.pinimg.com/originals/58/9d/dd/589ddd85b8c039595b21fb6510f44d6e.gif" alt="aesthetic" style="width: 1000px; height: auto;">
+<img src="https://i.pinimg.com/736x/a4/33/1b/a4331b986accdba6d3a2882a313e819f.jpg" alt="aesthetic" style="width: 1000px; height: auto;">
 
 <h1 align="center">Hey there, I'm Samarpita Das 👋</h1>
 <h3 align="center">Engineering Student | Tech Enthusiast | Android Developer</h3>
 
-<img align="right" alt="Coding" width="400px" src="https://i.pinimg.com/originals/90/59/70/905970d0e0ce713dbf7356e0ad8945c4.gif">
+<img align="right" alt="Coding" width="400px" src="https://i.pinimg.com/736x/18/a8/92/18a892d0ad6747b866ffe10be90bc3ef.jpg">
 
 ---
 
@@ -31,7 +31,6 @@
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://i.pinimg.com/564x/9f/9d/75/9f9d75df30d9d4ae73248f466c97ab83.jpg" alt="C" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
@@ -51,18 +50,6 @@
 
 I’d love your feedback on these projects!
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarpitabdas&show_icons=true&locale=en" alt="samarpitabdas" style="margin: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarpitabdas&" alt="samarpitabdas" style="margin: 10px;"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samarpitabdas&show_icons=true&locale=en&layout=compact" alt="samarpitabdas" style="margin: 10px;" />
-</div>
-
----
 
 ### Fun Fact
 ⚡ I enjoy solving puzzles and discovering new technologies!
