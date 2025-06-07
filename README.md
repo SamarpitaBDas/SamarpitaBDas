@@ -53,7 +53,7 @@
 | 💾 **SyncDrive – Cybercore Productivity App**        | A retro-futuristic planner to help you manage your daily grind in style.                      | `React.js`, `Tailwind CSS`, `Supabase` | [Live](https://syncdrive98.netlify.app/) • [Code](https://github.com/SamarpitaBDas/syncdrive98)     |
 | 🎮 **Tetris – Terminal Edition**                     | Classic Tetris rebuilt from scratch to run entirely in your terminal.                         | `Java`                                | [Code](https://github.com/SamarpitaBDas/tetris)                                                     |
 | 🧬 **LifeBeat – Early Cancer Detection App**         | Android app using ML to assist with early detection of cancer symptoms.                       | `Kotlin`, `Android`, `ML`               | [Code](https://github.com/SamarpitaBDas/LifeBeat)                                                   |
-| 💪 **FitSutra – Fitness Companion App**              | Track workouts, routines, and health stats with this sleek Android fitness app.               | `Java`, `Android`                     | [Code](https://github.com/SamarpitaBDas/FitSutra)                                                   |
+| 💪 **FitSutra – Fitness Companion App**              | Track workouts, routines, and health stats with this sleek Android fitness app.               | `Kotlin`, `Android`                     | [Code](https://github.com/SamarpitaBDas/FitSutra)                                                   |
 
 
 > 💌 Drop a ⭐ or send your thoughts — I love hearing from other devs!
