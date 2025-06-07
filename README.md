@@ -10,6 +10,7 @@
 
 <img align="right" alt="Coding Girl" width="350px" src="https://i.pinimg.com/736x/3c/ed/a9/3ceda90ddd6356aff607cefa4878b08e.jpg" style="border-radius: 10px;" />
 
+
 ---
 
 ## 🧃💿 About Me 
@@ -46,8 +47,6 @@
 >
 
 ---
-
-## 🚀 Featured Projects
 
 ## 🚀 Featured Projects
 
