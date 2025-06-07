@@ -46,10 +46,6 @@
 > Things I’ve coded that I actually kinda love 💿✨
 >
 
----
-
-## 🚀 Featured Projects
-
 | Project                                              | Description                                                                                   | Tech Stack                            | Links                                                                                               |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | 🧠 **CircuitVerse – AI-Powered Circuit Simulator**   | Build and simulate circuits in a drag-and-drop interface, guided by an intelligent assistant. | `React.js`, `Tailwind CSS`, `Supabase` | [Live](https://circuit-verse.netlify.app/) • [Code](https://github.com/SamarpitaBDas/circuit-verse) |
