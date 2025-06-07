@@ -12,7 +12,7 @@
 
 ---
 
-## 🧃💿 About Me (Y2K Core)
+## 🧃💿 About Me 
 
 - ✨ I'm currently pursuing **Engineering**, majoring in code & caffeine.
 - 📱 Learning **Kotlin** and crafting shiny Android apps.
