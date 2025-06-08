@@ -16,10 +16,10 @@
 ## 🧃💿 About Me 
 
 - ✨ I'm currently pursuing **Engineering**, majoring in code & caffeine.
-- 📱 Learning **Kotlin** and crafting shiny Android apps.
-- 🤝 Always open for **collabs** — hit me up for aesthetic app ideas or fun side quests.
+- 📱 Learning **Kotlin** and crafting Android apps.
+- 🤝 Always open for **collabs** .
 - 📨 Contact me: **samarpitabdas@gmail.com**
-- 🌐 [My Portfolio](https://samarpitabdas.github.io/Portfolio/) — it glows 🌈
+- 🌐 [My Portfolio](https://samarpitabdas.github.io/Portfolio/) 
 
 ---
 
