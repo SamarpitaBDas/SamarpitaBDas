@@ -58,13 +58,6 @@
 
 > 💌 Drop a ⭐ or send your thoughts — I love hearing from other devs!
 
----
-
-## 🎮 Fun Fact
-
-> I can write code, debug bugs, cook 2AM Maggi, and solve a puzzle — all at once 🧩🍜
-
----
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/e4/60/f0/e460f0d9c0c0b55eb1b3d62f96e16c6f.gif" height="50" />
