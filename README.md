@@ -39,24 +39,7 @@
   <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,react,cpp,python,mysql,css,js,figma,tensorflow&theme=dark" />
 </div>
 
----
 
-## 📟 My Projects
-
-> Things I’ve coded that I actually kinda love 💿✨
->
-
-| Project                                              | Description                                                                                   | Tech Stack                            | Links                                                                                               |
-| ---------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| 🧠 **CircuitVerse – AI-Powered Circuit Simulator**   | Build and simulate circuits in a drag-and-drop interface, guided by an intelligent assistant. | `React.js`, `Tailwind CSS`, `Supabase` | [Live](https://circuit-verse.netlify.app/) • [Code](https://github.com/SamarpitaBDas/circuit-verse) |
-| 🛍️ **RecsCart – Sleek E-commerce Platform**         | A modern shopping experience with a full-stack architecture and clean UI.                     | `React.js`, `Tailwind CSS`, `Supabase` | [Live](https://recs-cart.netlify.app/) • [Code](https://github.com/SamarpitaBDas/recs-cart)         |
-| 💾 **SyncDrive – Cybercore Productivity App**        | A retro-futuristic planner to help you manage your daily grind in style.                      | `React.js`, `Tailwind CSS`, `Supabase` | [Live](https://syncdrive98.netlify.app/) • [Code](https://github.com/SamarpitaBDas/syncdrive98)     |
-| 🎮 **Tetris – Terminal Edition**                     | Classic Tetris rebuilt from scratch to run entirely in your terminal.                         | `Java`                                | [Code](https://github.com/SamarpitaBDas/tetris)                                                     |
-| 🧬 **LifeBeat – Early Cancer Detection App**         | Android app using ML to assist with early detection of cancer symptoms.                       | `Kotlin`, `Android`, `ML`               | [Code](https://github.com/SamarpitaBDas/LifeBeat)                                                   |
-| 💪 **FitSutra – Fitness Companion App**              | Track workouts, routines, and health stats with this sleek Android fitness app.               | `Kotlin`, `Android`                     | [Code](https://github.com/SamarpitaBDas/FitSutra)                                                   |
-
-
-> 💌 Drop a ⭐ or send your thoughts — I love hearing from other devs!
 
 
 <div align="center">
