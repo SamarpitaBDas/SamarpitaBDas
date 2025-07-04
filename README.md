@@ -22,16 +22,6 @@
 - 🌐 [My Portfolio](https://samarpitabdas.github.io/Portfolio/)
  
 
----
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/samarpitabdas" target="_blank"><img src="https://i.pinimg.com/originals/bc/e2/31/bce231c8fdcbf7ad19e058b59c7be735.gif" alt="LinkedIn" height="40"/></a>
-  <a href="https://www.instagram.com/samarpitadas_" target="_blank"><img src="https://i.pinimg.com/originals/61/8f/27/618f2739ac5f70b20fbc65524e7346bc.gif" alt="Instagram" height="40"/></a>
-  <a href="https://leetcode.com/u/codenemesis" target="_blank"><img src="https://i.pinimg.com/originals/e5/d6/32/e5d6320150031be02b1ad5f479cf1d3e.gif" alt="LeetCode" height="40"/></a>
-</p>
-
----
-
 
 ## 🛠️ Skills & Tech Stack
 
