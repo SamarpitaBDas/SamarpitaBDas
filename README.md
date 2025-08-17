@@ -19,7 +19,7 @@
 - 📱 Learning **Kotlin** and crafting Android apps.
 - 🤝 Always open for **collabs** .
 - 📨 Contact me: **samarpitabdas@gmail.com**
-- 🌐 [My Portfolio](https://samarpitabdas.github.io/Portfolio/)
+- 🌐 [My Portfolio](https://samarpitabdas.netlify.app/)
  
 
 
