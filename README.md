@@ -37,3 +37,10 @@
   <h3>💫 Let’s build magic, chaos, and some beautiful bugs together 💻🖤</h3>
   <img src="https://i.pinimg.com/originals/e4/60/f0/e460f0d9c0c0b55eb1b3d62f96e16c6f.gif" height="50" />
 </div>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamarpitaBDas&show_icons=true&locale=en&layout=compact" alt="ujjawal-bisht" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SamarpitaBDas&show_icons=true&locale=en" alt="ujjawal-bisht" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamarpitaBDas&" alt="ujjawal-bisht" /></p>
