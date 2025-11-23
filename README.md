@@ -1,6 +1,3 @@
-
-<img src="https://i.pinimg.com/originals/79/31/cb/7931cbb21da91e59a8c5fb074f821a75.gif" width="100%" style="border-radius: 12px;"/>
-
 <h1 align="center">🌐💾 Hey there, I'm <code>Samarpita Das</code> 👾💿</h1>
 <h3 align="center">⌨️ Engineering Student • 🛠️ Tech Explorer • 📱 Android Dev</h3>
 
